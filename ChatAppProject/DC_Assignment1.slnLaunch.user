@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ChatServer\\ChatServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DuplexClient\\DuplexClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PollingClient\\PollingClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
